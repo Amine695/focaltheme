@@ -1,0 +1,427 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_e7836a58-e957-4376-91ae-bccf5dac4b73.png",
+            "mobile_image": "shopify:\/\/shop_images\/banner_mobile.png",
+            "text_position": "middle_left",
+            "subheading": "CRAFTED FROM legendary HEMATITE stone,‎ DESIGNED FOR MEN OF POWER",
+            "title": "EMPOWER YOUR STRENGTH IN 30 DAYS",
+            "button_1_text": "Upgrade myself now",
+            "button_1_link": "shopify:\/\/products\/vaynite-hematite-bracelet",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#f6a429",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 15
+          }
+        },
+        "slide-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner2.png",
+            "text_position": "middle_left",
+            "subheading": "CRAFTED FROM legendary HEMATITE stone,‎ DESIGNED FOR MEN OF POWER",
+            "title": "EMPOWER YOUR STRENGTH IN 30 DAYS",
+            "button_1_text": "Upgrade myself now",
+            "button_1_link": "shopify:\/\/products\/vaynite-hematite-bracelet",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#f6a429",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 21
+          }
+        }
+      },
+      "block_order": [
+        "slide-1",
+        "slide-2"
+      ],
+      "custom_css": [
+        ".content-box {position: relative;}",
+        ".content-box h2,.content-box h3 {position: relative; display: block;}",
+        ".content-box h2 {top: 9em; font-size: 17px; width: 500px;}",
+        ".content-box h3 {top: -2.4em;}",
+        "@media (max-width: 768px) {.content-box h3 {text-align: center; font-size: 30px; top: -3.4em; } .content-box h2 {text-align: center; max-width: 90%; font-size: 12px; line-height: 1; } .content-box .button-wrapper {text-align: center; } .content-box h2, .content-box h3 {margin-bottom: 4em; \/* ajuste selon ton rendu *\/ }}"
+      ],
+      "settings": {
+        "section_height": "medium",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "press_UD3tdn": {
+      "type": "press",
+      "blocks": {
+        "item_gxHVF6": {
+          "type": "item",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/png-clipart-forbes-logo-marketing-business-company-magazine-company-text.png",
+            "logo_width": 100,
+            "content": "From its handcrafted hematite stones to its bold identity, VAYNITE embodies the modern warrior’s mindset. A symbol of strength, focus, and quiet confidence."
+          }
+        },
+        "item_JcPrHH": {
+          "type": "item",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/mens-health-logo-png_seeklogo-221955.png",
+            "logo_width": 100,
+            "content": "VAYNITE isn’t just jewelry — it’s a statement. A perfect balance between masculine elegance and grounded energy. The kind of piece that feels powerful the moment you wear it."
+          }
+        },
+        "item_gVRb4F": {
+          "type": "item",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/gq-logo-black-and-white.png",
+            "logo_width": 60,
+            "content": "“Minimalist, magnetic, and masterfully crafted — VAYNITE has redefined what a men’s bracelet can be.It’s where timeless design meets purpose and presence.”"
+          }
+        }
+      },
+      "block_order": [
+        "item_gxHVF6",
+        "item_JcPrHH",
+        "item_gVRb4F"
+      ],
+      "custom_css": [
+        ".press-list__item-content {font-weight: normal; font-family: \"poppins\"; text-transform: none; font-size: 23px;}"
+      ],
+      "name": "Press",
+      "settings": {
+        "reveal_on_scroll": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "blog": "",
+        "subheading": "Stay up-to-date",
+        "title": "Blog posts",
+        "articles_count": 3,
+        "stack_mobile": false,
+        "show_category": true,
+        "show_excerpt": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "rich_text_jJAbyH": {
+      "type": "rich-text",
+      "name": "Rich text",
+      "settings": {
+        "subheading": "",
+        "title": "our mission",
+        "content": "<p>Our mission is to restore what modern life has forgotten, the connection between strength, balance, and purpose.<\/p><p>In a world that moves faster every day, true power comes not from noise, but from control. Each bracelet we craft is a reminder to slow down, to stay grounded, and to channel your energy with intention. <\/p><p>Unlock your natural strength, the first masculine bracelet engineered from pure hematite to work with your body’s energy field, amplify metabolism, sharpen focus, and reignite the primal power you were born with.<\/p><h2>Feel Like Yourself Again<\/h2>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "boxed",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#ffffff",
+        "text_color": "#282828",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HematiteBracelets1.webp",
+            "tab_label": "Text 1",
+            "subheading": "★★★★★ 4,7\/5 Based on +2000 Reviews",
+            "title": "vaynite  hematite bracelet",
+            "content": "<h5>💪 Boost Testosterone Naturally<\/h5><h5>🔥 Support Healthy Metabolism<\/h5><h5> ♂︎ Restore Confidence & Libido<\/h5><h5>‎🧠 Improve Mental Focus‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎<\/h5>",
+            "button_text": "Claim your bracelet →",
+            "button_link": "shopify:\/\/products\/vaynite-hematite-bracelet"
+          }
+        }
+      },
+      "block_order": [
+        "item-1"
+      ],
+      "custom_css": [
+        ".h3 {font-size: 25px;}",
+        ".image-with-text__content-wrapper {font-size: 20px;}"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "#ffffff",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "rich_text_xVFihH": {
+      "type": "rich-text",
+      "name": "Rich text",
+      "settings": {
+        "subheading": "the roots",
+        "title": "our story",
+        "content": "<p>For centuries, men have sought more than armor, they’ve sought <strong>balance, focus, and inner power<\/strong>. Roman generals wore hematite bracelets that never left their wrists, even in sleep.<\/p><p>Viking warriors rubbed the stone on their shields before charging into battle. Egyptian pharaohs were buried wearing it, believing it would protect their spirit in the afterlife.<\/p><p>They all knew something we forgot...<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "boxed",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#f6a429",
+        "text_color": "#282828",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "image_with_text_cPbQkr": {
+      "type": "image-with-text",
+      "blocks": {
+        "item_gKf9d3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/story.webp",
+            "tab_label": "Item",
+            "subheading": "the",
+            "title": "power of hematite",
+            "content": "<p>Forged in the depths of the Earth, <strong>hematite<\/strong> is one of nature’s most magnetic and ancient stones.<\/p><p>Its iron-rich core has long been associated with <strong>strength, balance, and protection<\/strong> — a source of grounding energy used by warriors to connect themselves with the earth’s primal force, channeling <strong>focus, resilience, and unshakable confidence<\/strong> through every heartbeat.<\/p><p>From <strong>Roman generals<\/strong> to <strong>Egyptian pharaohs<\/strong>, hematite was worn as a symbol of courage and focus, believed to channel the Earth’s magnetic force into the body and mind.<\/p><p>Today, <strong>VAYNITE<\/strong> revives this legacy — transforming this sacred stone into a refined emblem of <strong>masculine energy and self-mastery<\/strong>.<\/p><p>Each bead carries centuries of heritage and the timeless reminder that true power begins from within.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_gKf9d3"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#282828",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "image-with-text-block": {
+      "type": "image-with-text-block",
+      "settings": {
+        "reveal_on_scroll": true,
+        "image": "shopify:\/\/shop_images\/banner.png",
+        "subheading": "Subheading",
+        "title": "Image with text block",
+        "content": "<p>Use block text to give your customers insight into your brand. Select impactful text that relates to your brand and story.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_position": "right",
+        "text_alignment": "left",
+        "text_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "featured-product": {
+      "type": "featured-product",
+      "blocks": {
+        "description_xhjxF3": {
+          "type": "description",
+          "settings": {}
+        },
+        "quantity-selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy-buttons": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "description_xhjxF3",
+        "quantity-selector",
+        "buy-buttons"
+      ],
+      "settings": {
+        "product": "vaynite-hematite-bracelet",
+        "subheading": "",
+        "title": "Featured product",
+        "show_vendor": false,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_share_buttons": true,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon_width": 50,
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included<\/p>"
+          }
+        },
+        "item-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon_width": 50,
+            "title": "Customer service",
+            "content": "<p>We are available from monday to friday to answer your questions.<\/p>"
+          }
+        },
+        "item-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon_width": 50,
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.<\/p>"
+          }
+        },
+        "item-4": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-email",
+            "custom_icon_width": 50,
+            "title": "Contact us",
+            "content": "<p>Need to contact us ? Just send us an e-mail at info@yourstore.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2",
+        "item-3",
+        "item-4"
+      ],
+      "settings": {
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "faq_UEWNfr": {
+      "type": "faq",
+      "blocks": {
+        "category_NFYrXQ": {
+          "type": "category",
+          "settings": {
+            "title": "Shipping"
+          }
+        },
+        "question_XUdAqg": {
+          "type": "question",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+          }
+        },
+        "question_grAcKt": {
+          "type": "question",
+          "settings": {
+            "title": "How long will it take to get my order?",
+            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
+          }
+        },
+        "category_BRhn4T": {
+          "type": "category",
+          "settings": {
+            "title": "Other"
+          }
+        },
+        "question_dbKgUE": {
+          "type": "question",
+          "settings": {
+            "title": "Any question?",
+            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "category_NFYrXQ",
+        "question_XUdAqg",
+        "question_grAcKt",
+        "category_BRhn4T",
+        "question_dbKgUE"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "show_navigation": false,
+        "title": "FAQ",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "Subscribe to our newsletter",
+        "content": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>",
+        "text_position": "right",
+        "text_alignment": "left",
+        "text_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "press_UD3tdn",
+    "blog-posts",
+    "rich_text_jJAbyH",
+    "image-with-text",
+    "rich_text_xVFihH",
+    "image_with_text_cPbQkr",
+    "image-with-text-block",
+    "featured-product",
+    "text-with-icons",
+    "faq_UEWNfr",
+    "newsletter"
+  ]
+}
