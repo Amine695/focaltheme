@@ -251,7 +251,7 @@
         "pagination_size_mobile": 16,
         "pagination_height": 130,
         "pagination_show_desktop": true,
-        "pagination_show_mobile": true,
+        "pagination_show_mobile": false,
         "heading_color": "#FFFFFF",
         "text_color": "#FFFFFF",
         "image_border_color": "#000000",
