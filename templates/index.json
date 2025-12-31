@@ -192,7 +192,7 @@
         "slideshow_fixed_height_mobile": 660,
         "autoplay": true,
         "autoplay_delay": 6,
-        "overlay": 0.2,
+        "overlay": 0.1,
         "content_padding_vertical": 64,
         "content_padding_vertical_mobile": 100,
         "content_padding_horizontal": 110,
