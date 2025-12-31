@@ -184,7 +184,9 @@
         "slide_wWkie9",
         "slide_UWUt8g"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".slideshow-heading-template--27184821305684__ss_slideshow_7_Ka7r3A {margin-top: 170px;}"
+      ],
       "name": "SS - Slideshow #7",
       "settings": {
         "slideshow_height": "fixed_height",
@@ -209,7 +211,7 @@
         "text_size_mobile": 14,
         "text_height": 150,
         "text_mt": 26,
-        "text_mt_mobile": 50,
+        "text_mt_mobile": 52,
         "button_custom": true,
         "button_font": "poppins_n4",
         "button_size": 16,
