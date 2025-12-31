@@ -225,7 +225,7 @@
         "button_padding_horizontal_mobile": 22,
         "button_radius": 4,
         "button_border_thickness": 0,
-        "button_style": "non_outline",
+        "button_style": "non_outline_arrow",
         "image_radius": 12,
         "image_border_thickness": 0,
         "image_ratio": "portrait",
