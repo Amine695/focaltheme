@@ -185,7 +185,8 @@
         "slide_UWUt8g"
       ],
       "custom_css": [
-        ".slideshow-heading-template--27184821305684__ss_slideshow_7_Ka7r3A {margin-top: -20px; margin-bottom: 50px;}"
+        ".slideshow-heading-template--27184821305684__ss_slideshow_7_Ka7r3A {margin-top: -20px; margin-bottom: 120px;}",
+        ".slideshow-button-template--27184821305684__ss_slideshow_7_Ka7r3A {margin-top: 160px;}"
       ],
       "name": "SS - Slideshow #7",
       "settings": {
@@ -206,14 +207,14 @@
         "heading_size_mobile": 24,
         "heading_height": 130,
         "text_custom": true,
-        "text_font": "josefin_sans_n6",
+        "text_font": "amiri_n7",
         "text_size": 18,
-        "text_size_mobile": 14,
+        "text_size_mobile": 20,
         "text_height": 150,
         "text_mt": 26,
-        "text_mt_mobile": 72,
+        "text_mt_mobile": 100,
         "button_custom": true,
-        "button_font": "josefin_sans_n6",
+        "button_font": "josefin_sans_n7",
         "button_size": 16,
         "button_size_mobile": 15,
         "button_height": 100,
