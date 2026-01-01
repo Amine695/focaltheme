@@ -32,7 +32,7 @@
         "desktop_products_per_row": 4,
         "show_filters": true,
         "show_filter_group_name": true,
-        "show_color_swatch": false,
+        "show_color_swatch": true,
         "open_first_filter_group": false,
         "filter_position": "always_visible",
         "promotion_position": "top",
