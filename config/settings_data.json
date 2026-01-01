@@ -39,7 +39,7 @@
     "currency_code_enabled": false,
     "stagger_products_apparition": true,
     "round_color_swatches": false,
-    "color_swatch_config": "",
+    "color_swatch_config": "Gray:#808080\nSilver:#C0C0C0\nBlack:#000000",
     "show_vendor": false,
     "show_secondary_image": true,
     "show_product_rating": false,
