@@ -49,7 +49,7 @@
     "search_unavailable_products": "show",
     "cart_type": "drawer",
     "cart_icon": "shopping_cart",
-    "cart_empty_button_link": "shopify://products/vaynite-hematite-bracelet",
+    "cart_empty_button_link": "",
     "cart_show_free_shipping_threshold": true,
     "cart_free_shipping_threshold": "20",
     "favicon": "shopify://shop_images/Untitled_design__1_-removebg-preview.png",
