@@ -42,6 +42,7 @@
     "color_swatch_config": "",
     "show_vendor": false,
     "show_secondary_image": true,
+    "product_add_to_cart": true,
     "show_product_rating": false,
     "discount_mode": "percentage",
     "product_color_display": "swatch",

@@ -25,6 +25,26 @@
     },
     "main": {
       "type": "main-collection",
+      "blocks": {
+        "image_dwQjgP": {
+          "type": "image",
+          "settings": {
+            "subheading": "Your subheading",
+            "title": "Your heading",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_left",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        }
+      },
+      "block_order": [
+        "image_dwQjgP"
+      ],
       "settings": {
         "show_sort_by": true,
         "products_per_page": 24,
