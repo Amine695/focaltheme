@@ -103,6 +103,37 @@
       },
       "header": {
         "type": "header",
+        "blocks": {
+          "mega_menu_7A43fK": {
+            "type": "mega_menu",
+            "settings": {
+              "menu_item": "Bracelets",
+              "images_position": "right",
+              "image_1": "shopify://shop_images/Gemini_Generated_Image_lgonw3lgonw3lgon.png",
+              "image_1_heading": "Bracelets",
+              "image_1_text": "",
+              "image_1_link": "shopify://collections/bracelets",
+              "image_2_heading": "",
+              "image_2_text": "",
+              "image_2_link": "",
+              "image_3_heading": "",
+              "image_3_text": "",
+              "image_3_link": "",
+              "image_4_heading": "",
+              "image_4_text": "",
+              "image_4_link": "",
+              "image_5_heading": "",
+              "image_5_text": "",
+              "image_5_link": "",
+              "image_6_heading": "",
+              "image_6_text": "",
+              "image_6_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "mega_menu_7A43fK"
+        ],
         "settings": {
           "enable_sticky_header": false,
           "logo": "shopify://shop_images/logo_packaging-removebg-preview.png",
