@@ -26,23 +26,41 @@
     "main": {
       "type": "main-collection",
       "blocks": {
-        "image_dwQjgP": {
+        "image_wTEPYT": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/banner2.png",
             "subheading": "Your subheading",
             "title": "Your heading",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
-            "text_position": "middle_left",
+            "text_position": "bottom_right",
             "background": "#f7f8fd",
-            "text_color": "#1e316a",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "image_dwQjgP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/B4-Hover.png",
+            "subheading": "Your subheading",
+            "title": "Your heading",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "bottom_left",
+            "background": "#f7f8fd",
+            "text_color": "#000000",
             "button_background": "#ffffff",
             "button_text_color": "#1e316a"
           }
         }
       },
       "block_order": [
+        "image_wTEPYT",
         "image_dwQjgP"
       ],
       "custom_css": [],
