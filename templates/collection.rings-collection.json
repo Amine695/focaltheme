@@ -1,0 +1,172 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "collection-banner": {
+      "type": "collection-banner",
+      "settings": {
+        "show_collection_image": true,
+        "show_collection_title": true,
+        "show_collection_description": true,
+        "section_height": "medium",
+        "text_width": "medium",
+        "image_text_color": "#ffffff",
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 30,
+        "quick_links": ""
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "blocks": {
+        "image_wTEPYT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/banner2.png",
+            "subheading": "Your subheading",
+            "title": "Your heading",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "bottom_right",
+            "background": "#f7f8fd",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "image_dwQjgP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/B4-Hover.png",
+            "subheading": "Your subheading",
+            "title": "Your heading",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "bottom_left",
+            "background": "#f7f8fd",
+            "text_color": "#000000",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        }
+      },
+      "block_order": [
+        "image_wTEPYT",
+        "image_dwQjgP"
+      ],
+      "custom_css": [],
+      "settings": {
+        "show_sort_by": true,
+        "products_per_page": 24,
+        "mobile_products_per_row": "2",
+        "desktop_products_per_row": 4,
+        "show_filters": true,
+        "show_filter_group_name": true,
+        "show_color_swatch": true,
+        "open_first_filter_group": false,
+        "filter_position": "always_visible",
+        "promotion_position": "top",
+        "promotion_height": "small"
+      }
+    },
+    "featured_collections_kjpdXw": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_KgCQ76": {
+          "type": "collection",
+          "settings": {
+            "collection": "bracelets",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_KgCQ76"
+      ],
+      "disabled": true,
+      "name": "Featured collections",
+      "settings": {
+        "subheading": "Your title",
+        "title": "Collection",
+        "content": "",
+        "products_count": 7,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "text_with_icons_BG9DmM": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_AzADdh": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-fast-delivery",
+            "custom_icon_width": 50,
+            "title": "Fast shipping",
+            "content": "<p>Tracked worlwide delivery with careful packaging process </p>"
+          }
+        },
+        "item_L4zcJd": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-warranty",
+            "custom_icon_width": 50,
+            "title": "premium quality",
+            "content": "<p>Handcrafted with precision and delivered in a premium packaging</p>"
+          }
+        },
+        "item_w8tpVi": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-love",
+            "custom_icon_width": 50,
+            "title": "Refund garantee",
+            "content": "<p>Not satisfied with your purchase? Get your money back, no questions asked.</p>"
+          }
+        },
+        "item_Ct7Ebg": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon_width": 50,
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_AzADdh",
+        "item_L4zcJd",
+        "item_w8tpVi",
+        "item_Ct7Ebg"
+      ],
+      "disabled": true,
+      "settings": {
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "collection-banner",
+    "main",
+    "featured_collections_kjpdXw",
+    "text_with_icons_BG9DmM"
+  ]
+}
