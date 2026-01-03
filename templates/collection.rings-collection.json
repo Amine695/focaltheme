@@ -28,6 +28,7 @@
       "blocks": {
         "image_wTEPYT": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/banner2.png",
             "subheading": "Your subheading",
