@@ -159,7 +159,7 @@
             "heading": "<h1>ELEVATE YOUR STYLE INSTANTLY </h1>",
             "text": "<p>New arrivals : Autumn - Winter 2025</p>",
             "button": "See our collection",
-            "button_url": "",
+            "button_url": "shopify://collections",
             "first_image_url": "",
             "second_image_url": "",
             "third_image_url": ""
@@ -173,7 +173,7 @@
             "heading": "<h1>ELEVATE YOUR STYLE INSTANTLY</h1>",
             "text": "<p>New arrivals : Autumn - Winter 2025</p>",
             "button": "See our collection",
-            "button_url": "",
+            "button_url": "shopify://collections",
             "first_image_url": "",
             "second_image_url": "",
             "third_image_url": ""
