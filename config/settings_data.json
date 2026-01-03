@@ -23,7 +23,7 @@
     "footer_background": "#282828",
     "footer_text_color": "#ffffff",
     "primary_button_background": "#282828",
-    "primary_button_text_color": "#f6a429",
+    "primary_button_text_color": "#ffffff",
     "secondary_button_background": "#282828",
     "secondary_button_text_color": "#ffffff",
     "product_on_sale_accent": "#2e9e7b",
@@ -201,37 +201,37 @@
           "static-text-with-icons-0": {
             "type": "item",
             "settings": {
-              "icon": "picto-box",
+              "icon": "picto-fast-delivery",
               "custom_icon_width": 50,
-              "title": "Free shipping",
-              "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+              "title": "Fast shipping",
+              "content": "<p>Tracked worlwide delivery with careful packaging process </p>"
             }
           },
           "static-text-with-icons-1": {
             "type": "item",
             "settings": {
-              "icon": "picto-phone",
+              "icon": "picto-warranty",
               "custom_icon_width": 50,
-              "title": "Customer service",
-              "content": "<p>We are available from monday to friday to answer your questions.</p>"
+              "title": "Premium Quality",
+              "content": "<p>Handcrafted with precision and delivered in a premium packaging</p>"
             }
           },
           "static-text-with-icons-2": {
+            "type": "item",
+            "settings": {
+              "icon": "picto-love",
+              "custom_icon_width": 50,
+              "title": "Refund Guarantee",
+              "content": "<p>Not satisfied with your purchase? Get your money back, no questions asked.</p>"
+            }
+          },
+          "static-text-with-icons-3": {
             "type": "item",
             "settings": {
               "icon": "picto-lock",
               "custom_icon_width": 50,
               "title": "Secure payment",
               "content": "<p>Your payment information is processed securely.</p>"
-            }
-          },
-          "static-text-with-icons-3": {
-            "type": "item",
-            "settings": {
-              "icon": "picto-email",
-              "custom_icon_width": 50,
-              "title": "Contact us",
-              "content": "<p>Need to contact us ? Just send us an e-mail at info@yourstore.com</p>"
             }
           }
         },
