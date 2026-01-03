@@ -103,12 +103,44 @@
       },
       "header": {
         "type": "header",
+        "blocks": {
+          "mega_menu_YkdPti": {
+            "type": "mega_menu",
+            "settings": {
+              "menu_item": "Collection",
+              "images_position": "right",
+              "image_1": "shopify://shop_images/HematiteBracelets3.webp",
+              "image_1_heading": "Natural Stone",
+              "image_1_text": "",
+              "image_1_link": "",
+              "image_2": "shopify://shop_images/B1-Hover.png",
+              "image_2_heading": "audacious style",
+              "image_2_text": "",
+              "image_2_link": "",
+              "image_3_heading": "",
+              "image_3_text": "",
+              "image_3_link": "",
+              "image_4_heading": "",
+              "image_4_text": "",
+              "image_4_link": "",
+              "image_5_heading": "",
+              "image_5_text": "",
+              "image_5_link": "",
+              "image_6_heading": "",
+              "image_6_text": "",
+              "image_6_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "mega_menu_YkdPti"
+        ],
         "settings": {
           "enable_sticky_header": false,
           "logo": "shopify://shop_images/logo_packaging-removebg-preview.png",
           "logo_max_width": 95,
           "mobile_logo_max_width": 70,
-          "navigation_menu": "main-menu",
+          "navigation_menu": "menu-items",
           "sidebar_navigation_menu": "",
           "header_layout": "logo_left_navigation_center",
           "show_icons": true,
