@@ -40,6 +40,7 @@
         },
         "quantity_selector_WGmx3U": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {}
         },
         "amose_bundle_amose_bundle_block_LeGcG9": {
