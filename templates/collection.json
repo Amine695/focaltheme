@@ -23,6 +23,56 @@
         "quick_links": ""
       }
     },
+    "promotion_blocks_4wh89w": {
+      "type": "promotion-blocks",
+      "blocks": {
+        "image_qkUJ8c": {
+          "type": "image",
+          "settings": {
+            "highlight": false,
+            "subheading": "",
+            "title": "Image with text",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "image_hhCpxc": {
+          "type": "image",
+          "settings": {
+            "highlight": false,
+            "subheading": "",
+            "title": "Image with text",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        }
+      },
+      "block_order": [
+        "image_qkUJ8c",
+        "image_hhCpxc"
+      ],
+      "name": "Promotion blocks",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "section_size": "small",
+        "stack_on_mobile": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
     "main": {
       "type": "main-collection",
       "blocks": {
@@ -165,6 +215,7 @@
   },
   "order": [
     "collection-banner",
+    "promotion_blocks_4wh89w",
     "main",
     "featured_collections_kjpdXw",
     "text_with_icons_BG9DmM"
