@@ -645,6 +645,7 @@
         "item_CEzrV8",
         "item_9y9YFq"
       ],
+      "disabled": true,
       "custom_css": [
         ".blockquote {font-family: \"Poppins\"; font-weight: 1; text-transform: none; font-size: 22px;}"
       ],
