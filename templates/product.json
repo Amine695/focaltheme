@@ -21,7 +21,6 @@
         },
         "liquid_3ezQGP": {
           "type": "liquid",
-          "disabled": true,
           "settings": {
             "liquid": "<style>\n.product__inventory {\n  position: relative;\n  top: -6px;\n  margin-bottom:-3px;\n  display: flex;\n  align-items: center;\n  justify-content: left;\n  gap: 5px;\n  text-align: center;\n  margin: 0;\n  padding: 0;\n  line-height: 1;\n}\n\n/* Animation de pulsation orange */\n.product__inventory svg circle:first-child {\n  animation: pulse 1.5s infinite ease-in-out;\n  transform-origin: center;\n  fill: rgba(255, 165, 0, 0.6); /* orange clair */\n}\n\n.product__inventory svg circle:last-child {\n  fill: orange; /* orange principal */\n  stroke: #fff;\n  stroke-width: 1;\n}\n\n@keyframes pulse {\n  0% { transform: scale(1); opacity: 0.9; }\n  50% { transform: scale(1); opacity: 0.3; }\n  100% { transform: scale(1); opacity: 0.9; }\n}\n</style>\n\n<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\">\n  <svg width=\"15\" height=\"15\" aria-hidden=\"true\">\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\"></circle>\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"5\"></circle>\n  </svg>\n  Limited quantity\n</p>"
           }
@@ -37,21 +36,6 @@
             "selector_mode": "block",
             "color_mode": "color",
             "size_chart_page": ""
-          }
-        },
-        "trustshop_reviews_review_snippets_3EeKEd": {
-          "type": "shopify://apps/trustshop-reviews/blocks/review-snippets/18b0c4cc-5411-4b6e-922d-34fdc2f30ab9",
-          "disabled": true,
-          "settings": {
-            "selected_product": "",
-            "wrapper_class": ""
-          }
-        },
-        "liquid_q48X6k": {
-          "type": "liquid",
-          "disabled": true,
-          "settings": {
-            "liquid": "<style>\n@import url('https://fonts.googleapis.com/css2?family=Tomorrow:wght@600&display=swap');\n\n.vaynite-benefits-wrapper {\n  max-width: 950px;\n  margin: 5px auto 0;\n  padding: 0;\n}\n\n.vaynite-benefits {\n  display: grid;\n  grid-template-columns: 1fr 1fr;\n  gap: 15px 25px;\n}\n\n.vaynite-benefit {\n  display: flex;\n  align-items: center;\n  justify-content: flex-start;\n  background: linear-gradient(135deg, #f5f5f5, #e8e8e8);\nborder-radius: 5px;\n  padding: 12px 20px;\n  height: 70px; /* taille fixe */\n  box-shadow: 0 1px 3px rgba(0,0,0,0.04);\n  transition: all 0.3s ease;\n}\n\n.vaynite-benefit:hover {\n  transform: translateY(-2px);\n  box-shadow: 0 3px 6px rgba(0,0,0,0.08);\n}\n\n.vaynite-benefit img {\n  width: 30px;\n  height: 30px;\n  margin-right: 14px;\n  flex-shrink: 0;\n}\n\n.vaynite-benefit h4 {\n  font-family: 'Tomorrow', sans-serif;\n  font-weight: 500;\n  font-size: 13px;\n  color: #111;\n  text-transform: uppercase;\n  letter-spacing: 0.5px;\n  margin: 0;\n}\n\n@media (max-width: 768px) {\n  .vaynite-benefits-wrapper {\n    transform: none;\n    padding: 0 10px;\n  }\n  .vaynite-benefits {\n    grid-template-columns: 1fr;\n  }\n  .vaynite-benefit {\n    height: 65px;\n  }\n}\n</style>\n\n<div class=\"vaynite-benefits-wrapper\">\n  <div class=\"vaynite-benefits\">\n    <div class=\"vaynite-benefit\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0989/9527/4068/files/strength.png?v=1762470969\" alt=\"Testosterone Booster\">\n      <h4>Symbol of discipline\n</h4>\n    </div>\n\n    <div class=\"vaynite-benefit\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0989/9527/4068/files/group.png?v=1764175055\" alt=\"Healthy Metabolism\">\n      <h4>strong presence\n</h4>\n    </div>\n\n    <div class=\"vaynite-benefit\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0989/9527/4068/files/shield.png?v=1763652066\" alt=\"Restore Confidence\">\n      <h4>everyday durability\n</h4>\n    </div>\n\n    <div class=\"vaynite-benefit\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0989/9527/4068/files/fire.png?v=1762471007\" alt=\"Mental Focus\">\n      <h4>premium craftmanship\n</h4>\n    </div>\n  </div>\n</div>"
           }
         },
         "quantity_selector_WGmx3U": {
@@ -113,8 +97,6 @@
         "liquid_3ezQGP",
         "description_athz6r",
         "variant_picker_KeCXhn",
-        "trustshop_reviews_review_snippets_3EeKEd",
-        "liquid_q48X6k",
         "quantity_selector_WGmx3U",
         "amose_bundle_amose_bundle_block_LeGcG9",
         "liquid_jcWiDk",
