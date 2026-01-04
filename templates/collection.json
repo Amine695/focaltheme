@@ -32,13 +32,13 @@
             "image": "shopify://shop_images/rings-thumbnail.png",
             "highlight": false,
             "subheading": "",
-            "title": "Image with text",
+            "title": "Rings",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
-            "text_position": "middle_center",
+            "text_position": "bottom_center",
             "background": "#f7f8fd",
-            "text_color": "#1e316a",
+            "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#1e316a"
           }
@@ -49,13 +49,13 @@
             "image": "shopify://shop_images/B2-Hover.png",
             "highlight": false,
             "subheading": "",
-            "title": "Image with text",
+            "title": "necklaces",
             "link_text": "",
             "link_url": "",
             "link_style": "link",
-            "text_position": "middle_center",
+            "text_position": "bottom_center",
             "background": "#f7f8fd",
-            "text_color": "#1e316a",
+            "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#1e316a"
           }
@@ -72,7 +72,7 @@
         "section_size": "small",
         "stack_on_mobile": true,
         "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
+        "text_color": "#ffffff"
       }
     },
     "main": {
