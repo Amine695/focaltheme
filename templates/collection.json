@@ -47,7 +47,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/B2-Hover.png",
-            "highlight": true,
+            "highlight": false,
             "subheading": "",
             "title": "necklaces",
             "link_text": "See more",
