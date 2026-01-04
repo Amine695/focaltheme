@@ -29,6 +29,7 @@
         "image_qkUJ8c": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/rings-thumbnail.png",
             "highlight": false,
             "subheading": "",
             "title": "Image with text",
@@ -45,6 +46,7 @@
         "image_hhCpxc": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/B2-Hover.png",
             "highlight": false,
             "subheading": "",
             "title": "Image with text",
