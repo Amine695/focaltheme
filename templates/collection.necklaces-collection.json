@@ -25,6 +25,7 @@
     },
     "image_with_text_block_PPxyBc": {
       "type": "image-with-text-block",
+      "disabled": true,
       "name": "Image with text block",
       "settings": {
         "reveal_on_scroll": true,
@@ -69,7 +70,7 @@
             "image": "shopify://shop_images/B1-Hover.png",
             "highlight": false,
             "subheading": "",
-            "title": "necklaces",
+            "title": "bracelets",
             "link_text": "See more",
             "link_url": "shopify://collections/necklaces",
             "link_style": "link",
